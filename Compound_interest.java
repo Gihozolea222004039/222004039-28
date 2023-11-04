@@ -1,4 +1,4 @@
-public class interest2 { 
+public class Compound_interest { 
     public static double compound ( double p, double r, int t, int n)
     {
         double result =p * Math.pow(1+(r/n),n*t);
@@ -10,6 +10,6 @@ public class interest2 {
          double r = 0.18;
          int t = 3, n = 12;
         double compound = compound(p, r, t, n);
-        System.out.println("the copmound interest of bob is: "+compound);
+        System.out.println("the compound interest of bob is: "+compound);
    } 
 }

@@ -1,5 +1,6 @@
 
-        public class loopsfile{
+        public class for_loopA
+        {
             public static void main(String a[])
             {
                 int multiplyby;
