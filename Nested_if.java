@@ -2,6 +2,8 @@ public class Nested_if {
     public static void main(String[] args)
     {
      int marks=50;
+        // THE FOLLOWING IF STATEMENTS PRINT THE RESULT ACCORDING TO THE GIVEN CONDITION
+        // START WITH if, THEN else if AND FINALLY else{};
      if (marks>=80)  
      {
         System.out.println("very good! you will pass");
